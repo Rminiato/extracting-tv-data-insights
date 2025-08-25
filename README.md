@@ -18,5 +18,5 @@ extracting-tv-data-insights/
 │   └── example_data.csv
 ├── notebooks/           # Notebook Jupyter
 │   └── analysis.ipynb
-├── README.md            # Descrizione del progetto
+└──  README.md            # Descrizione del progetto
 
