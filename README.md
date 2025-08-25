@@ -11,3 +11,12 @@ This project focuses on analyzing **Super Bowl television broadcast data** to ex
 - Drawing actionable insights from data
 
 ## Project Structure
+```text
+extracting-tv-data-insights/
+│
+├── data/                # Dataset di esempio
+│   └── example_data.csv
+├── notebooks/           # Notebook Jupyter
+│   └── analysis.ipynb
+├── README.md            # Descrizione del progetto
+
